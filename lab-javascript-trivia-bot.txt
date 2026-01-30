@@ -1,0 +1,18 @@
+** start of script.js **
+
+console.log("Hello! I'm your coding fun fact guide!");
+const botName="Mel";
+const botLocation="clark's computer";
+const favoriteLanguage= "Javascript";
+console.log ("My name is " + botName + " and I live on "+ botLocation + ".");
+console.log("My favorite programming language is " + favoriteLanguage +".");
+let codingFact= "My favorite variable in " + favoriteLanguage + " is let because it is simple and can do almost anything the others can.";
+console.log(codingFact);
+codingFact= "Another thing I like about " + favoriteLanguage + " is that you can edit websites (nonpermanently) at any time even when you do not own it.";
+console.log(codingFact);
+codingFact= "One last thing I like about "+favoriteLanguage+" is that it is very simple.";
+console.log(codingFact);
+console.log ("It was fun sharing these facts with you. Goodbye! - " + botName + " from " + botLocation + ".")
+
+** end of script.js **
+
